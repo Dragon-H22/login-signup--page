@@ -1,0 +1,11 @@
+input {
+	border: none;
+	outline: none;
+}
+button {
+	border: none;
+	outline: none;
+}
+input[type='submit']:hover, button:hover {
+	cursor: pointer;
+}

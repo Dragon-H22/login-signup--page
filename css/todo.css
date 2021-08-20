@@ -37,9 +37,7 @@ body {
 	color: rgb(78 88 95);
 	margin: 11px;
 }
-.login,
-.email,
-.pass {
+.logout {
 	border-radius: 30px;
 	height: 50px;
 	color: #ffffffbf;
@@ -53,18 +51,12 @@ body {
 	display: flex;
 	justify-content: center;
 }
-.login {
+.logout {
 	font-weight: bolder;
 	width: 130px;
 	box-shadow: 0 0 20px rgb(45 56 60);
 }
-.login:hover {
+.logout:hover {
 	background-color: white;
 	color: black;
-}
-.sign {
-	color: rgb(78 88 95);
-	margin: 11px;
-	display: flex;
-	justify-content: center;
 }
